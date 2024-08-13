@@ -15,4 +15,5 @@ contract dataTypes{
     int public maxInt = type(int).max;
 
     address public addr = 0x742d35Cc6634C0532925a3b844Bc454e4438f44e;
+    uint public Fav =10;
 }
